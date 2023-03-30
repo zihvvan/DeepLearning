@@ -1,2 +1,2 @@
 # DeepLearning
-딥러닝
+디ㅍ럴닌
